@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe.config
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\bin\Debug\jogodavelha.exe
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\bin\Debug\jogodavelha.pdb
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Form1.resources
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.Properties.Resources.resources
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.exe
+C:\Users\Aluno\Desktop\jogodavelha\jogodavelha\obj\Debug\jogodavelha.pdb
