@@ -12,26 +12,22 @@ namespace jogodavelha
 {
     public partial class Form1 : Form
     {
+        int i = 0;
         public Form1()
         {
             InitializeComponent();
-            panel3.Hide();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            panel1.Hide();
-            panel3.Show();
+            this.Hide();
+            Offline form = new Offline();
+            form.Show();
         }
 
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
+        
 
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
-
-        }
+       
     }
 }
